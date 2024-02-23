@@ -1,0 +1,18 @@
+.pagodadt{
+    margin-left: 5px;
+    font-size: 25px;
+    padding-left: 10px;
+    background-color: whitesmoke;
+}
+.pagodadt h2{
+    color: red;
+    text-align: center;
+    padding-top: 10px;
+}
+.pagodadt img{
+    display: block;
+    margin: auto;
+}
+.pagodadt hr{
+    border: 5px solid;
+}

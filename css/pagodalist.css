@@ -1,0 +1,30 @@
+.pagodalist{
+    width: 100%;
+}
+.pagoda{
+    flex: 25%;
+    width: 25%;
+    border: 1px solid;
+    padding: 1%;
+    cursor: pointer;
+    overflow: hidden;
+}
+.pagoda img {
+    width: 100%;
+    max-width: 100%;
+    height: 300px;
+    transition: all 1s;
+}
+.pagoda img:hover{
+    transform: scale(98%);
+}
+.captionp{
+    text-align: center;
+    padding-top: 15px;
+    color: darkred;
+    font-size: 20px;
+}
+.flex-container_dis{
+    color: darkblue;
+    text-align: center;
+}
